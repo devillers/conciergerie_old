@@ -9,3 +9,7 @@ git push -u origin main
 git remote add origin https://github.com/devillers/conciergerie.git
 git branch -M main
 git push -u origin main
+
+git init 
+git commit -m "first commit"
+git push
